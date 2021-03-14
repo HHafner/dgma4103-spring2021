@@ -1,0 +1,15 @@
+body {
+  background-color:#ef4434;
+  font-family:"Lucida Handwriting", cursive;
+  color: white;
+}
+nav {
+  background-color:#d72211;
+  color: white;
+}
+footer {
+  background color:#d72211;
+}
+a, a:link, a:visited {
+  color: white;
+}
