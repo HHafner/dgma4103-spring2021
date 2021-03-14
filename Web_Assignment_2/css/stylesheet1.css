@@ -1,1 +1,11 @@
-c
+body {
+  background-color:#7d00fa;
+  font-family:"Lucida Console", monospace;
+  color:white
+}
+nav {
+  background-color:#6b00d6
+}
+footer {
+  background color:#7d00fa;
+}
