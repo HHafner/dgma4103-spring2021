@@ -1,7 +1,7 @@
 body {
   background-color:#fcf5de;
   font-family:"Lucida Console", monospace;
-  color:#faebbd;
+  color:#fcec81;
 }
 nav {
   background-color:#6b00d6;
@@ -11,5 +11,5 @@ footer {
   background-color:#7d00fa;
 }
 a, a:link, a:visited {
-  color:#faebbd;
+  color:#fcec81;
 }
