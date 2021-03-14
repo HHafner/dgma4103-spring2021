@@ -10,6 +10,6 @@ nav {
 footer {
   background color:#7d00fa;
 }
-a {
+a, a:link, a:visited {
   color: white;
 }
