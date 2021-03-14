@@ -9,6 +9,6 @@ nav {
 footer {
   background color:#7d00fa;
 }
-a {
+a:link {
   color:white;
 }
