@@ -20,9 +20,7 @@ img {
 video {
   border:2px solid #a157d6
 }
-.auto {
-  cursor: url('bangocatauto.png'), auto;
-}
-.pointer {
+div {
+  cursor: url('bangocatauto.png'), default;
   cursor: url('bangocatpointer.png'), pointer;
 }
