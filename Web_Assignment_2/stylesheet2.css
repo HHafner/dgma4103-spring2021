@@ -1,15 +1,25 @@
 body {
-  background-color:#ef4434;
+  background-color:#ff3a12;
   font-family:"Lucida Handwriting", cursive;
-  color: white;
+  color: #fff0ed;
 }
 nav {
-  background-color:#d72211;
-  color: white;
+  background-color:#ab1d00;
+  color: #fff0ed;
 }
 footer {
-  background-color:#d72211;
+  background-color:#ab1d00;
 }
 a, a:link, a:visited {
-  color: white;
+  color: #fff0ed;
+}
+h1 {
+  font-weight:bold;
+  letter-spacing:1px;
+}
+img {
+  border:2px solid #c12000;
+}
+video {
+  border:2px solid #c12000
 }
