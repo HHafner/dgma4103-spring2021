@@ -4,6 +4,10 @@ body {
   color:#f9f5fd;
   text-align:center;
 }
+h1 {
+  font-weight:bold;
+  letter-spacing:1px;
+}
 nav {
   background-color:#7429aa;
   text-align:center
@@ -20,7 +24,6 @@ img {
 video {
   border:2px solid #a157d6
 }
-div {
-  cursor: url('bangocatauto.png'), default;
-  cursor: url('bangocatpointer.png'), pointer;
+p {
+  outline:2px solid #a157d6
 }
