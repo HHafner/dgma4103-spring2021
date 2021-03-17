@@ -13,12 +13,16 @@ footer {
 }
 a, a:link, a:visited {
   color:#f9f5fd;
-  cursor: url('bangocatauto.png'), auto;
-  cursor: url('bangocatpointer.png'), pointer;
 }
 img {
   border:2px solid #a157d6;
 }
 video {
   border:2px solid #a157d6
+}
+.auto {
+  cursor: url('bangocatauto.png'), auto;
+}
+.pointer {
+  cursor: url('bangocatpointer.png'), pointer;
 }
