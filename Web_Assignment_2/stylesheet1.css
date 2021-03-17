@@ -1,14 +1,16 @@
 body {
-  background-color:#7c2bed;
+  background-color:#b478de;
   font-family:"Lucida Console", monospace;
-  color:khaki;
+  color:#f9f5fd;
+  text-align:center;
 }
 nav {
-  background-color:#cc99ff;
+  background-color:#7429aa;
+  text-align:center
 }
 footer {
-  background-color:#cc99ff;
+  background-color:#7429aa;
 }
 a, a:link, a:visited {
-  color:khaki;
+  color:#f9f5fd;
 }
