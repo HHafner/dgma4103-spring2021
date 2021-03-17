@@ -1,17 +1,17 @@
 body {
   background-color:#db95b6;
   font-family:"Monaco", monospace;
-  color: white;
+  color: #fefdfd;
 }
 nav {
   background-color:#c35088;
-  color: white;
+  color: #fefdfd;
 }
 footer {
   background-color:#c35088;
 }
 a, a:link, a:visited {
-  color: white;
+  color: #fefdfd;
 }
 h1 {
   font-weight:bold;
